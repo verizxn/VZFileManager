@@ -7,9 +7,9 @@
 ```
 
 - Is your project:
-- [] iOS App
-- [] MacOS App
-- [] iPadOS App
-- [] Universal App
+- [ ] iOS App
+- [ ] MacOS App
+- [ ] iPadOS App
+- [ ] Universal App
 
 - Description:
