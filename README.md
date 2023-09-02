@@ -1,3 +1,4 @@
+![Swift Build](https://github.com/verizxn/VZFileManager/actions/workflows/swift.yml/badge.svg)
 # VZFileManager
 Easy way to handle File Manager in Swift.
 
