@@ -2,7 +2,8 @@
 # VZFileManager
 Easy way to handle File Manager in Swift.
 
-## Example code
+Example code
+---
 ```swift
 let file = VZFileManager(name: "test.txt")
 file.save(contents: "This is a test") //Save string to the file
@@ -13,7 +14,8 @@ print(file.getString() ?? "Not a string") //Get the content of the file, if it's
 file.delete() //Delete the file
 ```
 
-## Advanced example code
+Advanced example code
+---
 ```swift
 let file = VZFileManager(name: "image.png")
 let image = UIImage(systemName: "pencil")
